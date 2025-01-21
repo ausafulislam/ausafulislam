@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ausaf ul Islam and I'm a web and app developer, from Kathmandu,Nepal</h2>
+<h2 align="left">Hi 👋! My name is Ausaf ul Islam and I'm a web and app developer, from Karachi,Pakistan's </h2>
 
 ###
 
