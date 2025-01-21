@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nimesh Regmi and I'm a web and app developer, from Kathmandu,Nepal</h2>
+<h2 align="left">Hi 👋! My name is Ausaf ul Islam and I'm a web and app developer, from Kathmandu,Nepal</h2>
 
 ###
 
@@ -63,10 +63,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/thisisnimeshregmi77/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  <a href="https://twitter.com/nimeshregmi77?t=jfWCoXm8VmPC9oQoWGT1eA"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /></a>
-  <a href="mailto:regminimesh7@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
- <a href="https://www.linkedin.com/in/nimesh-regmi-699047218/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="https://www.instagram.com"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+  <a href="https://twitter.com"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /></a>
+  <a href="mailto:ausafulislam707@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+ <a href="https://www.linkedin.com/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
 ###
@@ -84,7 +84,7 @@
 
 <h1 align="center">Profile Viewers</h1>
 <img width="12" />
-  <img src="https://profile-counter.glitch.me/Nimeshregmi/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Ausaf-ul-Islam/count.svg?"  />
 </div>
 
 ###
