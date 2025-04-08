@@ -13,13 +13,13 @@
 
 <!-- GitHub Stats Cards with Animation -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ausafulislam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ausafulislam&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
 <!-- Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ausafulislam&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 <!-- Animated Wave -->
@@ -87,22 +87,22 @@
 
 <!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ausafulislam&style=for-the-badge&color=blue" alt="Profile Views" />
 </div>
 
 <!-- Connect with Me Section -->
 <h2 align="center">📫 Connect with Me</h2>
 <div align="center">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://linkedin.com/in/ausafulislam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
+  <a href="https://twitter.com/ausafulislam" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://dev.to/yourusername" target="_blank">
+  <a href="https://dev.to/ausafulislam" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
   </a>
-  <a href="https://medium.com/@yourusername" target="_blank">
+  <a href="https://medium.com/@ausafulislam" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
   <a href="mailto:your.email@example.com">
@@ -117,11 +117,11 @@
 
 <!-- GitHub Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ausafulislam&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
 <!--
-  Note 1: Replace all instances of "yourusername" with your actual GitHub username
+  Note 1: Replace all instances of "ausafulislam" with your actual GitHub username
   Note 2: Replace email and social media links with your actual accounts
   Note 3: To get the animated snake contribution graph, you'll need to set up a GitHub Action
   workflow as described in: https://github.com/Platane/snk
