@@ -27,7 +27,7 @@
 
 <!-- Animated Snake Contribution Graph -->
 <div align="center">
-  <h2>🐍 Contributions 🐍</h2>
+  <h2> Contributions </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
