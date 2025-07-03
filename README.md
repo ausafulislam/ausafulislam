@@ -82,13 +82,7 @@ I love building smooth UI experiences, fast apps, and scalable solutions while c
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-<!-- FINAL VERSION: Commit by Ausaf Ul Islam for clean layout and full skillset visibility -->
+<!-- Pc man Game Repo View -->
 
 <div align="center">
 <picture>
@@ -96,5 +90,6 @@ I love building smooth UI experiences, fast apps, and scalable solutions while c
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ausafulislam/ausafulislam/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ausafulislam/ausafulislam/output/pacman-contribution-graph.svg">
 </picture>
-
 </div>
+
+<!-- FINAL VERSION: Commit by Ausaf Ul Islam for clean layout and full skillset visibility -->
