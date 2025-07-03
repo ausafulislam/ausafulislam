@@ -70,7 +70,7 @@ I love building smooth UI experiences, fast apps, and scalable solutions while c
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ausafulislam&theme=radical&hide_border=false&layout=compact" width="47%" />
 </p>
 
-##
+
 
 ### 🏆 GitHub Trophies
 
@@ -78,9 +78,7 @@ I love building smooth UI experiences, fast apps, and scalable solutions while c
   <img src="https://github-profile-trophy.vercel.app/?username=ausafulislam&theme=radical&no-frame=false&no-bg=true&margin-w=8" />
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+##
 
 <!-- Pc man Game Repo View -->
 
@@ -93,3 +91,4 @@ I love building smooth UI experiences, fast apps, and scalable solutions while c
 </div>
 
 <!-- FINAL VERSION: Commit by Ausaf Ul Islam for clean layout and full skillset visibility -->
+
