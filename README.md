@@ -8,13 +8,29 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/-LinkedIn-0B5FBB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/X-%231DA1F2?style=for-the-badge&logo=X&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/ausafulislam" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0B5FBB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://ausafulislam.medium.com" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  
+  <a href="https://x.com/ausafulislam_h" target="_blank">
+    <img src="https://img.shields.io/badge/X-%231DA1F2?style=for-the-badge&logo=X&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.youtube.com/@ausafulislam_h" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:ausafdev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
   <img src="https://komarev.com/ghpvc/?username=ausafulislam&label=Profile%20views&color=0e75b6&style=flat" alt="ausafulislam" width="170" height="30" />
 </p>
+
 </div>
 
 ### 🚀 Meet Ausaf Ul Islam
