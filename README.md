@@ -1,7 +1,7 @@
 <div >
 
-<h2>🪐 Welcome to the Digital Orbit of <strong>Ausaf Ul Islam</strong>! </h2>
-<blockquote><em>"Exploring the galaxy of code — one project at a time."</em></blockquote>
+## 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒕𝒉𝒆 𝑫𝒊𝒈𝒊𝒕𝒂𝒍 𝑶𝒓𝒃𝒊𝒕 𝒐𝒇 𝑨𝒖𝒔𝒂𝒇 𝑼𝒍 𝑰𝒔𝒍𝒂𝒎! 
+> "𝐸𝑥𝑝𝑙𝑜𝑟𝑖𝑛𝑔 𝑡ℎ𝑒 𝑔𝑎𝑙𝑎𝑥𝑦 𝑜𝑓 𝑐𝑜𝑑𝑒, 𝑜𝑛𝑒 𝑝𝑟𝑜𝑗𝑒𝑐𝑡 𝑎𝑡 𝑎 𝑡𝑖𝑚𝑒."
 
 <p align="center">
   <img src="./profile-banner.gif" alt="Dev Banner" width="100%"/>
@@ -11,39 +11,32 @@
   <a href="https://www.linkedin.com/in/ausafulislam" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0B5FBB?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
   <a href="https://ausafulislam.medium.com" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  
   <a href="https://x.com/ausafulislam_h" target="_blank">
     <img src="https://img.shields.io/badge/X-%231DA1F2?style=for-the-badge&logo=X&logoColor=white"/>
   </a>
-  
   <a href="https://www.youtube.com/@ausafulislam_h" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/>
   </a>
-  
   <a href="mailto:ausafdev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <img src="https://komarev.com/ghpvc/?username=ausafulislam&label=Profile%20views&color=0e75b6&style=flat" alt="ausafulislam" width="170" height="30" />
 </p>
 
 </div>
 
-### 🚀 Meet Ausaf Ul Islam
+## 𝑀𝑒𝑒𝑡 𝐴𝑢𝑠𝑎𝑓 𝑈𝑙 𝐼𝑠𝑙𝑎𝑚
 
-I'm a passionate **Frontend Developer** with a focus on clean, responsive, and user-centric web applications.
+𝐼'𝑚 𝑎 𝑝𝑎𝑠𝑠𝑖𝑜𝑛𝑎𝑡𝑒 𝐹𝑟𝑜𝑛𝑡𝑒𝑛𝑑 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟 𝑤𝑖𝑡ℎ 𝑎 𝑓𝑜𝑐𝑢𝑠 𝑜𝑛 𝑐𝑙𝑒𝑎𝑛, 𝑟𝑒𝑠𝑝𝑜𝑛𝑠𝑖𝑣𝑒, 𝑎𝑛𝑑 𝑢𝑠𝑒𝑟-𝑐𝑒𝑛𝑡𝑟𝑖𝑐 𝑤𝑒𝑏 𝑎𝑝𝑝𝑙𝑖𝑐𝑎𝑡𝑖𝑜𝑛𝑠.
 
-I specialize in modern tech stacks like **TypeScript**, **JavaScript**, **React.js**, **Next.js**, and powerful tools like **Framer Motion**, **Sanity**, and **Firebase**. I also dive into **Python** for backend logic and explore **full-stack development** to bridge creativity with performance.
+𝐼 𝑠𝑝𝑒𝑐𝑖𝑎𝑙𝑖𝑧𝑒 𝑖𝑛 𝑚𝑜𝑑𝑒𝑟𝑛 𝑡𝑒𝑐ℎ 𝑠𝑡𝑎𝑐𝑘𝑠 𝑙𝑖𝑘𝑒 𝑇𝑦𝑝𝑒𝑆𝑐𝑟𝑖𝑝𝑡, 𝐽𝑎𝑣𝑎𝑆𝑐𝑟𝑖𝑝𝑡, 𝑅𝑒𝑎𝑐𝑡.𝑗𝑠, 𝑁𝑒𝑥𝑡.𝑗𝑠, 𝑎𝑛𝑑 𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙 𝑡𝑜𝑜𝑙𝑠 𝑙𝑖𝑘𝑒 𝐹𝑟𝑎𝑚𝑒𝑟 𝑀𝑜𝑡𝑖𝑜𝑛, 𝑆𝑎𝑛𝑖𝑡𝑦, 𝑎𝑛𝑑 𝐹𝑖𝑟𝑒𝑏𝑎𝑠𝑒. 𝐼 𝑎𝑙𝑠𝑜 𝑑𝑖𝑣𝑒 𝑖𝑛𝑡𝑜 𝑃𝑦𝑡ℎ𝑜𝑛 𝑓𝑜𝑟 𝑏𝑎𝑐𝑘𝑒𝑛𝑑 𝑙𝑜𝑔𝑖𝑐 𝑎𝑛𝑑 𝑒𝑥𝑝𝑙𝑜𝑟𝑒 𝑓𝑢𝑙𝑙-𝑠𝑡𝑎𝑐𝑘 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡 𝑡𝑜 𝑏𝑟𝑖𝑑𝑔𝑒 𝑐𝑟𝑒𝑎𝑡𝑖𝑣𝑖𝑡𝑦 𝑤𝑖𝑡ℎ 𝑝𝑒𝑟𝑓𝑜𝑟𝑚𝑎𝑛𝑐𝑒.
 
-I love building smooth UI experiences, fast apps, and scalable solutions while constantly learning and contributing to real-world projects.
+𝐼 𝑙𝑜𝑣𝑒 𝑏𝑢𝑖𝑙𝑑𝑖𝑛𝑔 𝑠𝑚𝑜𝑜𝑡ℎ 𝑈𝐼 𝑒𝑥𝑝𝑒𝑟𝑖𝑒𝑛𝑐𝑒𝑠, 𝑓𝑎𝑠𝑡 𝑎𝑝𝑝𝑠, 𝑎𝑛𝑑 𝑠𝑐𝑎𝑙𝑎𝑏𝑙𝑒 𝑠𝑜𝑙𝑢𝑡𝑖𝑜𝑛𝑠 𝑤ℎ𝑖𝑙𝑒 𝑐𝑜𝑛𝑠𝑡𝑎𝑛𝑡𝑙𝑦 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑎𝑛𝑑 𝑐𝑜𝑛𝑡𝑟𝑖𝑏𝑢𝑡𝑖𝑛𝑔 𝑡𝑜 𝑟𝑒𝑎𝑙-𝑤𝑜𝑟𝑙𝑑 𝑝𝑟𝑜𝑗𝑒𝑐𝑡𝑠.
 
-##
-
-### ⚙️ My Arsenal of Technologies
+## 𝑀𝑦 𝑇𝑒𝑐ℎ 𝑆𝑡𝑎𝑐𝑘
 
 <div align="center" >
 <p>
@@ -77,9 +70,7 @@ I love building smooth UI experiences, fast apps, and scalable solutions while c
 
 </div>
 
-##
-
-### 📈 Mission Stats & Top Languages
+## 𝑀𝑖𝑠𝑠𝑖𝑜𝑛 𝑆𝑡𝑎𝑡𝑠 & 𝑇𝑜𝑝 𝐿𝑎𝑛𝑔𝑢𝑎𝑔𝑒𝑠
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ausafulislam&theme=radical&hide_border=false&include_all_commits=true&count_private=false" width="47%" />
@@ -88,13 +79,11 @@ I love building smooth UI experiences, fast apps, and scalable solutions while c
 
 
 
-### 🏆 GitHub Trophies
+## 𝐺𝑖𝑡𝐻𝑢𝑏 𝑇𝑟𝑜𝑝ℎ𝑖𝑒𝑠
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ausafulislam&theme=radical&no-frame=false&no-bg=true&margin-w=8" />
 </p>
-
-##
 
 <!-- Pc man Game Repo View -->
 
