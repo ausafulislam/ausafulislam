@@ -79,7 +79,7 @@
 
 
 
-## 𝐺𝑖𝑡𝐻𝑢𝑏 𝑇𝑟𝑜𝑝ℎ𝑖𝑒𝑠
+## 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ausafulislam&theme=radical&no-frame=false&no-bg=true&margin-w=8" />
