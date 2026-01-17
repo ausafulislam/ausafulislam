@@ -70,7 +70,7 @@
 
 </div>
 
-## 𝑀𝑖𝑠𝑠𝑖𝑜𝑛 𝑆𝑡𝑎𝑡𝑠 & 𝑇𝑜𝑝 𝐿𝑎𝑛𝑔𝑢𝑎𝑔𝑒𝑠
+## 𝐌𝐢𝐬𝐬𝐢𝐨𝐧𝐬 𝐒𝐭𝐚𝐭𝐬 & 𝐓𝐨𝐩 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ausafulislam&theme=radical&hide_border=false&include_all_commits=true&count_private=false" width="47%" />
